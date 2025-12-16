@@ -1,0 +1,1 @@
+/root/cgame/libcm/amemobj.h

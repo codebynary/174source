@@ -1,0 +1,1 @@
+/root/cgame/gs/config.h
