@@ -4,6 +4,13 @@
 > **Compatibilidade**: Client 1.6.2+  
 > **Status**: Cleaned & Optimized (Release Mode)
 
+![Standard](https://img.shields.io/badge/standard-pending_compliance-yellow?style=for-the-badge)
+
+> [!WARNING]
+> **Aguardando Padronização Antigravity**: Este projeto deve ser migrado para arquitetura "Docker Dev / Native Prod".
+> Consulte: `.agent/PROJECT_STATUS.md` e a tarefa associada.
+
+
 Este repositório contém o código fonte completo do servidor Perfect World versão 174, otimizado e limpo para desenvolvimento e produção.
 
 ---
